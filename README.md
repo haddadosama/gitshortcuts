@@ -11,6 +11,6 @@ $ cp .custom_git.sh ~
 ```
 - run then the following to add your custome script to you bash profile file **.bash_profile** for OSX:
 ```
-$ echo "source ~/.custom_git.sh"
+$ echo "source ~/.custom_git.sh" >> .bash_profile
 ```
 - close and open your trerminal and life will much easier :D

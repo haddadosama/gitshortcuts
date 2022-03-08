@@ -1,7 +1,7 @@
 # gitshortcuts
 
 - enjoy easy to commit git command **git-commit** 
-- also you can use **git-clean** to remove local deleted from remote branches
+- also you can use **git-clean** to remove all local branches that were deleted remotely. Also it will pull or your local branches to latest from remote.
 
 ## How to:
 - Clone this
